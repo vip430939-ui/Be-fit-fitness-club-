@@ -1,0 +1,6 @@
+{
+  "name": "Be Fit Fitness Club",
+  "description": "Premier fitness club and gym in Narhe, Pune near Zeal College Chowk. Strength, cardio, free weights, certified trainers, and membership enquiry portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
